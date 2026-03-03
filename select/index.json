@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "在り処",
+  "base_artist": "ぼくのりりっくのぼうよみ",
+  "createdAt": "2026-03-03T22:45:23.984051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "在り処",
+      "artist": "Boku no Lyric no Boyomi",
+      "has_synced": true,
+      "path": "select/01_在り処_Boku_no_Lyric_no_Boyomi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "在り処",
+      "artist": "ぼくのりりっくのぼうよみ",
+      "has_synced": false,
+      "path": "select/pl_01_在り処_ぼくのりりっくのぼうよみ.txt"
+    }
+  ]
+}
